@@ -63,7 +63,7 @@ rem pt.exe https://github.com/monochromegane/the_platinum_searcher
 rem dll2def ag curl sfk upx ctags make pexports
 rem CDMUninstaller
 
-rem
+rem ycm build guide
 rem "python2-32 llvm-32 cmake-64 vs2017
 
 rem .vim\bundle\YouCompleteMe\third_party\install
