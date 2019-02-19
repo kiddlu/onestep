@@ -2,7 +2,7 @@ cat <<EOF >> /data/data/com.termux/files/usr/etc/apt/sources.list
 deb [arch=all,arm] http://mirrors.tuna.tsinghua.edu.cn/termux stable main
 EOF
 
-pgk update
+pkg update
 
 pkg install -y git vim zsh wget openssh
 
