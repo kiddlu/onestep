@@ -2,9 +2,10 @@
 
 #tools
 sudo apt install -y wget git curl vim zsh openssh-server gitk meld samba automake \
-	   silversearcher-ag tree tmux socat iperf python-pip python-dev python3-pip python3-dev build-essential sqlite aria2 terminator \
+	 silversearcher-ag tree tmux socat iperf python-pip python-dev python3-pip python3-dev build-essential sqlite aria2 terminator \
      ctags cscope netcat-traditional alien sysstat \
      trace-cmd \
+     libreoffice \
      language-pack-zh-hans language-pack-zh-hans-base
 
 #youtube-dl Glances thefuck httpie
