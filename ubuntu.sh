@@ -1,11 +1,11 @@
 #!/bin/sh
 
 #tools
-sudo apt install -y wget git curl vim zsh openssh-server gitk meld samba automake \
-	 silversearcher-ag tree tmux socat iperf python-pip python-dev python3-pip python3-dev build-essential sqlite aria2 terminator \
-     ctags cscope netcat-traditional alien sysstat \
+sudo apt install -y wget git curl vim zsh openssh-server gitk meld automake \
+	 silversearcher-ag tree tmux iperf python-pip python-dev python3-pip python3-dev build-essential sqlite aria2 terminator \
+     ctags cscope netcat-traditional alien sysstat cmake \
      trace-cmd \
-     libreoffice \
+     libreoffice xfe \
      language-pack-zh-hans language-pack-zh-hans-base
 
 #youtube-dl Glances thefuck httpie
@@ -13,6 +13,7 @@ sudo apt install -y wget git curl vim zsh openssh-server gitk meld samba automak
 #ibus-rime ibus-mozc
 #gcc-mingw-w64 golang-go cario-dock
 #python3-dev python-dev
+#samba
 
 #vim
 #git clone https://github.com/amix/vimrc.git ~/.vim_runtime
